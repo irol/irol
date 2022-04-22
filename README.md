@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Irek. I started to be programmer at 1993. I have a lots of experience.
+- 👋 Hi, I’m Irek. I started to be a programmer at 1993. I have lots of experience.
 - 👀 I'm interested in programming in any language.
 - 🌱 I’m learning new things almost every day ;)
 - 💞️ I’m not looking to collaborate actively but I'm open ;) for it.
